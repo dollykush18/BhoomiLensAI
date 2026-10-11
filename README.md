@@ -31,7 +31,7 @@ Explainability| SHAP, where appropriate
 3. Document Analysis: Applies image preprocessing, OCR, field extraction, and consistency checks.
 4. AI-Assisted Insights: Explains recommendations using listing data and highlights information requiring further verification.
 
-##System Architecture-
+## System Architecture-
 
 React Frontend
       |
